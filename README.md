@@ -8,4 +8,5 @@ VPC VIRPIL Flight Stick Profiles
 
 For:
 - MSFS 2020
+- XPlane 11.51r
 - DCS World F/A-18
