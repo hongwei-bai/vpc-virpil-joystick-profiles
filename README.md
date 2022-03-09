@@ -9,7 +9,8 @@ VPC VIRPIL Flight Stick Profiles
 Other Devices Configurations
 
 - MFD Monitor 1280 x 1280 (F/A-18 DDI)
-- CTX VIA-C Keyboard
+- CTX VIA-C Keyboard ([Guide](https://github.com/hongwei-bai/vpc-virpil-joystick-profiles/tree/main/mfd))
+- [NVIDIA Muliple Monitor Quick Configurations](https://github.com/hongwei-bai/vpc-virpil-joystick-profiles/tree/main/nvidia)
 
 For:
 - MSFS 2020
